@@ -1,0 +1,38 @@
+.card{
+  max-width: 340px;
+  height: 450px;
+  border: 0.2px solid rgb(207, 194, 194);
+  overflow: hidden;
+  margin: 5px;
+  
+
+}
+img{
+  width: 340px;
+}
+
+
+/* Header */
+
+.links{
+  list-style: none;
+  display: flex;
+  padding: none;
+  
+  
+}
+h5{
+  padding: none;
+}
+li{
+  margin: none;
+  padding: 10px;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.myntralogo{
+  width: 200px;
+}
